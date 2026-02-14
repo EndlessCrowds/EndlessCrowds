@@ -36,5 +36,17 @@ The Universal Execution Standard for the AI Agent Economy. Unifying Global Finan
 Experimental infrastructure for agent-based crowd coordination.
 
 ---
-_"Building with precision for the future of finance."_
+### ✍️ Latest Blog Posts
+* [Refactoring for the Agentic Economy](https://rogermensah.com)
+* [The "One Backend, Three Brands" Strategy](https://rogermensah.com)
+* [Why I'm Building the Agent Proof Protocol](https://rogermensah.com)
+* [Read more at RogerMensah.com →](https://rogermensah.com)
+
+### 🏆 Media
+* **Detroit Techweek100 Innovator** – Endless Crowds
+* **Top 100 Crowdfunding Sites** – Global Ranking
+* **Featured In:** Model D Media, Free Enterprise, and local press for social impact work.
+
+---
+[website](https://rogermensah.com) • [linkedin](https://www.linkedin.com/in/rogermensah) • [instagram](https://www.instagram.com/lifeis4goodtimes/)
 📍 *New York, NY*
