@@ -3,7 +3,7 @@
 
 I'm not a traditional software engineer—My background is in business and operations, but I love technology. I've been working in the crowdfunding space since 2012, helping communities fund their goals.
 
-Currently refactoring my crowdfunding ventures. My goal is to deploy a Monorepo architecture that powers both the web and native mobile apps.
+Currently refactoring my crowdfunding ventures, deploying a Monorepo architecture that powers both the web and native mobile apps.
 
 I'm also building the **Agent Proof Protocol**, trying to solve the problem of trust between human crowds and AI agents.
 
