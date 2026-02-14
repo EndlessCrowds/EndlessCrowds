@@ -22,7 +22,7 @@ Always happy to chat about crowdsourcing, startups, or business.
 
 ### 🔭 Active Projects
 
-#### 🏛️ [Endless Crowds EcoSystem ](https://github.com/EndlessCrowds/EndlessCrowds_Empire)
+#### 🏛️ [Endless Crowds EcoSystem ]
 The central nervous system for our multi-tenant architecture.
 * **AmericanCrowds:** Patriotic Crowdfunding & Capital Formation.
 * **CashFundHer:** Financial empowerment and relief for women.
