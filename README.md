@@ -46,13 +46,12 @@ Experimental infrastructure for agent-based crowd coordination.
 * [Giving Pro Hands to AI: The "MAINTAIN" Primitive](https://rogermensah.com/f/giving-pro-hands-to-ai-the-maintain-primitive)
 * [Giving Hands to AI: The "FIX" Primitive](https://rogermensah.com/f/giving-hands-to-ai-the-fix-primitive)
 * [Giving Eyes to AI: The "VERIFY" Primitive](https://rogermensah.com/f/giving-eyes-to-ai-the-verify-primitive)]
-* [Why Ai Can't Trust Humans](https://rogermensah.com/f/why-ai-cant-trust-humans)
-* [Ai Agents & Money. Be Safe Not Sorry](https://rogermensah.com/f/ai-agents-money-be-safe-not-sorry)
-* [OpenAI’s New Frontier]((https://rogermensah.com/f/openai%E2%80%99s-new-frontier))
+* [Why AI Can't Trust Humans](https://rogermensah.com/f/why-ai-cant-trust-humans)
+* [AI Agents & Money. Be Safe Not Sorry](https://rogermensah.com/f/ai-agents-money-be-safe-not-sorry)
+* [OpenAI’s New Frontier](https://rogermensah.com/f/openai%E2%80%99s-new-frontier)
 * [AI Can Be Rich and Blind](https://rogermensah.com/f/ai-can-be-rich-and-blind)
-* [Ground Truth: From Ghana to AI]((https://rogermensah.com/f/ground-truth-from-ghana-to-ai))
+* [Ground Truth: From Ghana to AI](https://rogermensah.com/f/ground-truth-from-ghana-to-ai)
 * [The "Physical Wall": Why I Invented the Agent Proof Protocol](https://rogermensah.com/f/the-physical-wall-why-i-invented-the-agent-proof-protocol)
-* [Read more at RogerMensah.com →](https://rogermensah.com)
 
 ### 🏆 Media
 * **2017** https://web.archive.org/web/20170507004258/https://www.freeenterprise.com/these-3-social-impact-startups-are-coding-change-in-detroit/
