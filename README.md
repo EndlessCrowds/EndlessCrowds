@@ -37,10 +37,19 @@ Experimental infrastructure for agent-based crowd coordination.
 
 ---
 ### ✍️ Latest Blog Posts
-* [[Refactoring for the Agentic Economy](https://rogermensah.com)](https://rogermensah.com/f/the-suits-vs-the-builders)
-* [The "One Backend, Three Brands" Strategy](https://rogermensah.com)
-* [Why I'm Building the Agent Proof Protocol](https://rogermensah.com)
+* [The Suits vs. The Builders](https://rogermensah.com/f/the-suits-vs-the-builders)
+* [Google & WebMCP](https://rogermensah.com/f/google-webmcp)
+* [Google’s Universal Commerce Protocol - UCP]((https://rogermensah.com/f/google%E2%80%99s-universal-commerce-protocol-ucp))
+* [Chris Perkins: The Kinetic Trust Protocol]((https://rogermensah.com/f/chris-perkins-the-kinetic-trust-protocol))
+* [Giving Teachers to Ai: The "THINK" Primitive](https://rogermensah.com/f/giving-teachers-to-ai-the-think-primitive)
+* [Giving Wheels to Ai: The "MOVE" Primitive](https://rogermensah.com/f/giving-wheels-to-ai-the-move-primitive)
+* [Giving Pro Hands to AI: The "MAINTAIN" Primitive](https://rogermensah.com/f/giving-pro-hands-to-ai-the-maintain-primitive)
 * [Read more at RogerMensah.com →](https://rogermensah.com)
+* [Read more at RogerMensah.com →](https://rogermensah.com)
+* [Read more at RogerMensah.com →](https://rogermensah.com)
+* [Read more at RogerMensah.com →](https://rogermensah.com)
+* [Read more at RogerMensah.com →](https://rogermensah.com)
+
 
 ### 🏆 Media
 * **2017** https://web.archive.org/web/20170507004258/https://www.freeenterprise.com/these-3-social-impact-startups-are-coding-change-in-detroit/
