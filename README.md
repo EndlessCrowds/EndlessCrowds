@@ -12,9 +12,9 @@ We are executing a strategy to democratize capital access through patriotic crow
 ![Supabase](https://img.shields.io/badge/Database-Supabase-green?style=for-the-badge&logo=supabase)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript)
 
-### 🔭 The Empire (Active Projects)
+### 🔭 Active Projects
 
-#### 🏛️ [Endless Crowds Empire (Monorepo)](https://github.com/EndlessCrowds/EndlessCrowds_Empire)
+#### 🏛️ [Endless Crowds EcoSystem ](https://github.com/EndlessCrowds/EndlessCrowds_Empire)
 The central nervous system for our multi-tenant architecture.
 * **AmericanCrowds:** Patriotic Crowdfunding & Capital Formation.
 * **CashFundHer:** Financial empowerment and relief for women.
@@ -22,7 +22,7 @@ The central nervous system for our multi-tenant architecture.
 
 #### 🤖 [Agent Proof Protocol](https://github.com/EndlessCrowds/agent-proof-protocol)
 **The Universal Execution Standard for the AI Agent Economy.**
-Unifying Global Financial Rails, Logistics, and Labor Marketplace APIs to enable AI Agents to manage operations autonomously.
+The Universal Execution Standard for the AI Agent Economy. Unifying Global Financial Rails, MCP, WebMCP, Unix Pipelines, Logistics & Labor Marketplace APIs, and Cryptographic Trust to enable AI Agents to manage operations in the Physical World.
 
 #### 🏗️ [Agent Crowds](https://github.com/EndlessCrowds/agent-crowds)
 Experimental infrastructure for agent-based crowd coordination.
