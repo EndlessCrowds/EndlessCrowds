@@ -37,15 +37,12 @@ Experimental infrastructure for agent-based crowd coordination.
 
 ---
 ### ✍️ Latest Blog Posts
-* [Refactoring for the Agentic Economy](https://rogermensah.com)
+* [[Refactoring for the Agentic Economy](https://rogermensah.com)](https://rogermensah.com/f/the-suits-vs-the-builders)
 * [The "One Backend, Three Brands" Strategy](https://rogermensah.com)
 * [Why I'm Building the Agent Proof Protocol](https://rogermensah.com)
 * [Read more at RogerMensah.com →](https://rogermensah.com)
 
 ### 🏆 Media
-* **2016 Detroit Techweek100 Innovator** – [Announcement](https://twitter.com/TechweekInc/status/720349631180201985)
-* **2015 Top 100 Crowdfunding Sites** – [Global Ranking](https://crowdfundingpr.wordpress.com/2015/04/03/2015-top-100-crowdfunding-sites-in-the-united-states-and-global-markets/)
-* **Featured In:** Model D Media, Free Enterprise, and local press for social impact work.
 * **2017** https://web.archive.org/web/20170507004258/https://www.freeenterprise.com/these-3-social-impact-startups-are-coding-change-in-detroit/
 * **2014** https://modeldmedia.com/endlesscrowdsdetroit070814/
 ---
