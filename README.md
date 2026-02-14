@@ -3,7 +3,11 @@
 
 I'm not a traditional software engineer—My background is in business and operations, but I love technology. I've been working in the crowdfunding space since 2012, helping communities fund their goals.
 
-Right now, I'm using modern tools to build the **Agent Proof Protocol**, trying to solve the problem of trust between human crowds and AI agents. I'm here to build, learn, and connect.
+Currently refactoring my crowdfunding ventures for a 2026 relaunch. My goal is to deploy a **Monorepo** architecture that powers both web and **native mobile apps**.
+
+I'm also building the **Agent Proof Protocol**, trying to solve the problem of trust between human crowds and AI agents.
+
+I'm here to build, learn, and connect.
 
 Always happy to chat about crowdsourcing, startups, or business.
 
