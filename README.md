@@ -22,7 +22,7 @@ Always happy to chat about crowdsourcing, startups, or business.
 
 ### 🔭 Active Projects
 
-#### 🏛️ [Endless Crowds EcoSystem ]
+#### 🏛️ [Endless Crowds EcoSystem]
 Websites and Mobile apps (iOS & Android)
 * **AmericanCrowds:** Patriotic Crowdfunding & Capital Formation.
 * **CashFundHer:** Financial empowerment and relief for women.
