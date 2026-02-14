@@ -1,8 +1,11 @@
-# Endless Crowds
+# Hi, I'm Roger Mensah 👋
 
-**The Engineering Engine for the Agentic Economy.**
-We are executing a strategy to democratize capital access through patriotic crowdfunding, women's financial empowerment, and diaspora investment.
+**Detroit-born Entrepreneur & Crowdfunding Veteran.**
+I'm not a traditional software engineer—My background is in business and operations, but I love technology. I've been working in the crowdfunding space since 2012, helping communities fund their goals.
 
+Right now, I'm using modern tools to build the **Agent Proof Protocol**, trying to solve the problem of trust between human crowds and AI agents. I'm here to build, learn, and connect.
+
+Always happy to chat about crowdsourcing, startups, or business.
 ---
 
 ### 🛠 Technical Architecture
