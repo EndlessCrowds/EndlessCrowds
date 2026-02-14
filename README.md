@@ -1,7 +1,7 @@
 # Hi, I'm Roger 👋
 
 
-I'm not a traditional software engineer—My background is in business and operations, but I love technology. I've been working in the crowdfunding space since 2012, helping communities fund their goals.
+I'm not a traditional software engineer—My background is in business, operations and healthcare, but I love technology. I've been working in the crowdfunding space since 2012, helping communities fund their goals.
 
 Currently refactoring my crowdfunding ventures, deploying a Monorepo architecture that powers both the web and native mobile apps.
 
